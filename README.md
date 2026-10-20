@@ -10,7 +10,7 @@ The script extracts book titles, prices, ratings, and categories, and saves the 
 
 | File | Description |
 |---|---|
-| `scraper.py` | Python script that scrapes book information from the website. |
+| `scrape.py` | Python script that scrapes book information from the website. |
 | `requirements.txt` | Lists the Python libraries required to run the project. |
 | `books_to_scrape.csv` | CSV file containing the scraped book data. |
 | `.gitignore` | Specifies files and folders Git should ignore. |
