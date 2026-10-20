@@ -18,10 +18,9 @@ The script extracts book titles, prices, ratings, and categories, and saves the 
 
 ## 🛠️ Tools & Technologies
 
-- 🐍 **Python** — Main programming language
-- 🥣 **BeautifulSoup** — Parses HTML and extracts book information
-- 🌐 **Requests** — Retrieves webpage content
-- 📄 **CSV** — Stores the scraped data in a structured format
+- **Python** — Main programming language
+- **BeautifulSoup** — Parses HTML and extracts book information
+- **Requests** — Retrieves webpage content
 
 ## 📊 Output
 
@@ -38,11 +37,10 @@ The scraped data is saved as a `.csv` file in a tabular format with the followin
 
 Through this project, I practiced:
 
-- 🌐 **Web Scraping:** Extracting structured information from a website.
-- 🧱 **HTML Fundamentals:** Understanding HTML elements, tags, attributes, and page structure.
-- 🐍 **Python Data Extraction:** Using BeautifulSoup to navigate HTML and locate specific elements.
-- ⚙️ **Automation:** Automating data collection and saving the results to a CSV file.
-- 📁 **File Handling:** Writing extracted data to a CSV file for later use.
+- **Web Scraping:** Extracting structured information from a website.
+- **HTML Fundamentals:** Understanding HTML elements, tags, attributes, and page structure.
+- **Python Data Extraction:** Using BeautifulSoup to navigate HTML and locate specific elements.
+- **Automation:** Automating data collection and saving the results to a CSV file.
 
 ## 🚀 Getting Started
 
